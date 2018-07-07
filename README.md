@@ -1,4 +1,4 @@
-![21 Savage](public/.jpg)
+![](public/.jpg)
 
 ## Installation
 

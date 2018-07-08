@@ -14,7 +14,7 @@ A small express application where we can talk JS.
 
 Check it out!!: https://keiththedev.github.io/personalExpressApp/
 
-<img width="778" alt="screen shot 2018-07-07 at 11 05 04 pm" src="https://user-images.githubusercontent.com/39138244/42416448-73320020-823c-11e8-966f-7451000f5f55.png">
+<img width="570" alt="screen shot 2018-07-07 at 11 40 16 pm" src="https://user-images.githubusercontent.com/39138244/42416539-3a0b91d2-823f-11e8-8942-e60cb794f5e2.png">
 
 # How it's made:
 
